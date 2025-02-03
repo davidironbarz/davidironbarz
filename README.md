@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @davidironbarz
+- 👋 Hi, I’m David Dunbar
 - 👀 I’m interested in NLP/software engineering
 - 🌱 I’m currently learning NLP/software engineering
-- 💞️ I’m looking to collaborate on NLP projects
+- 💞️ I’m looking to collaborate on NLP and software engineering projects
 - 📫 How to reach me dunbardavid444@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
